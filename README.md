@@ -1,7 +1,12 @@
 <!-- AaRu Connects Stylish Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=114368,3B7A9B&height=140&section=header&text=AaRu%20Connects&fontSize=60&fontColor=FFFFFF&fontAlignY=40" alt="AaRu Connects Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=35&pause=1000&color=3B7A9B&center=true&vCenter=true&width=1000&height=80&lines=Welcome+to+AaRu+Connects;Multi-Tenant+Secure+Software+Solutions;International+Standard+Development+Approach" alt="AaRu Connects Typing Banner" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=114368,3B7A9B&height=160&section=header&text=AaRu%20Connects&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="AaRu Connects Stylish Banner" />
+</p>
+
 
 <h1 align="center" style="color:#114368; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   AaRu Connects
