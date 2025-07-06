@@ -9,7 +9,7 @@
 
 
 <h1 align="center" style="color:#114368; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  AaRu Connects
+  AaRu Connect
 </h1>
 
 <p align="center" style="color:#3B7A9B; font-size: 18px; max-width: 760px; margin: 8px auto 40px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
