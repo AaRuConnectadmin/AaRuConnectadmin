@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=114368,3B7A9B&height=160&section=header&text=AaRu%20Connects&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="AaRu Connect Stylish Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=114368,3B7A9B&height=160&section=header&text=AaRu%20Connect&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="AaRu Connect Stylish Banner" />
 </p>
 
 
