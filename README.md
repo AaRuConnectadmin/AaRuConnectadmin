@@ -20,7 +20,7 @@
 
 ## About AaRu Connect
 
-AaRu Connects is a technology-driven software company delivering secure, scalable, and high-performance platforms tailored for industries that demand reliability and long-term maintainability.
+AaRu Connect is a technology-driven software company delivering secure, scalable, and high-performance platforms tailored for industries that demand reliability and long-term maintainability.
 
 We specialize in:
 
